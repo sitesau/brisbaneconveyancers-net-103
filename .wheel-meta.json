@@ -1,0 +1,19 @@
+{
+  "wheel_id": 386,
+  "structure": "umbrella",
+  "slug": "brisbaneconveyancers-net-103",
+  "project": "conveyancing-services-brisbane-comparison-1ca473c8da29e7dae8850",
+  "parent_t1_ref": "brisbaneconveyancers-net-151",
+  "node_role": "feeder",
+  "money_target": "brisbaneconveyancers.net.au",
+  "primary_kw": "conveyancing services brisbane comparison",
+  "intended_url": "https://sitesau.github.io/brisbaneconveyancers-net-103/",
+  "writeback_nonce": "e9978e4c672add9a",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-brisbane-9359fc705ebe9d54f2ab768dfd8a3/",
+      "anchor": "conveyancing services brisbane",
+      "rel": "follow"
+    }
+  ]
+}
